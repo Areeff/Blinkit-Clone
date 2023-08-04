@@ -285,15 +285,16 @@ tr > th {
     visibility: hidden;
   }
   .location{
-    padding-top: 10px;
+    padding-top: 5px;
   }
   .blinktit-navbar{
     display: flex;
     flex-direction: column;
-    height: 180px;
+    height: 140px;
   }
   .searchbar{
     width: 90vw;
+    margin-top: -8px;
   }
   .searchbar>input{
     width: 60vw;
